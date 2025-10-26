@@ -8,7 +8,5 @@ class Solution {
         s.remove(Collections.max(s));
         s.remove(Collections.max(s));
         return Collections.max(s);
-        
-        
     }
 }
