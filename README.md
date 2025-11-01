@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 ## Prefix Sum
 |  |
@@ -32,9 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/3676-smallest-number-with-all-set-bits) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
