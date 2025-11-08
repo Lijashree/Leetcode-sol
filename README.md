@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Lijashree/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0507-perfect-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
