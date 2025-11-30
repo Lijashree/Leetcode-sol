@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Lijashree/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Lijashree/Leetcode-sol/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Lijashree/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Lijashree/Leetcode-sol/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0414-third-maximum-number) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lijashree/Leetcode-sol/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -67,4 +69,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Lijashree/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
