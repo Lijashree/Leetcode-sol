@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Lijashree/Leetcode-sol/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Lijashree/Leetcode-sol/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0507-perfect-number) |
 | [1260-day-of-the-year](https://github.com/Lijashree/Leetcode-sol/tree/master/1260-day-of-the-year) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Lijashree/Leetcode-sol/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
