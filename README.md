@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Lijashree/Leetcode-sol/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Lijashree/Leetcode-sol/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Lijashree/Leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0507-perfect-number) |
 | [1260-day-of-the-year](https://github.com/Lijashree/Leetcode-sol/tree/master/1260-day-of-the-year) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Lijashree/Leetcode-sol/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Lijashree/Leetcode-sol/tree/master/0152-maximum-product-subarray) |
 ## Divide and Conquer
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lijashree/Leetcode-sol/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Lijashree/Leetcode-sol/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
