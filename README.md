@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Lijashree/Leetcode-sol/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Lijashree/Leetcode-sol/tree/master/0724-find-pivot-index) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
+| [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lijashree/Leetcode-sol/tree/master/0075-sort-colors) |
+| [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
