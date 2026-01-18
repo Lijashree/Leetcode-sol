@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Lijashree/Leetcode-sol/tree/master/0724-find-pivot-index) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 | [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
+| [1184-distance-between-bus-stops](https://github.com/Lijashree/Leetcode-sol/tree/master/1184-distance-between-bus-stops) |
 ## Sorting
 |  |
 | ------- |
