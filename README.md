@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 | [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/Lijashree/Leetcode-sol/tree/master/1184-distance-between-bus-stops) |
+| [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
