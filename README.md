@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Lijashree/Leetcode-sol/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0707-design-linked-list](https://github.com/Lijashree/Leetcode-sol/tree/master/0707-design-linked-list) |
 ## Design
 |  |
