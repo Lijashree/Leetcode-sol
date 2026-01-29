@@ -7,20 +7,18 @@ class Solution {
         slow=slow.next;
         fast=fast.next.next;
          }
-         ListNode prev = null;
-        while (slow != null) {
-        ListNode next = slow.next;
-        slow.next = prev;
-        prev = slow;
-        slow = next;
+         ListNode prev=null;
+        while (slow!=null) {
+        ListNode next=slow.next;
+        slow.next=prev;
+        prev=slow;
+        slow=next;
      }
      int max = 0;
-    ListNode first = head;
-    ListNode second = prev;
-     while (second != null) {
-     max = Math.max(max, first.val + second.val);
-    first = first.next;
-    second = second.next;
+     while (prev!=null) {
+     max=Math.max(max,head.val+prev.val);
+    head=head.next;
+    prev=prev.next;
     }
     return max;
     }
