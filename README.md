@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0287-find-the-duplicate-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
