@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/Lijashree/Leetcode-sol/tree/master/1184-distance-between-bus-stops) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/Lijashree/Leetcode-sol/tree/master/1260-day-of-the-year) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
 | ------- |
