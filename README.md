@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/Lijashree/Leetcode-sol/tree/master/1184-distance-between-bus-stops) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/Lijashree/Leetcode-sol/tree/master/1260-day-of-the-year) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
 |  |
 | ------- |
