@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
+| [3046-split-the-array](https://github.com/Lijashree/Leetcode-sol/tree/master/3046-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3046-split-the-array](https://github.com/Lijashree/Leetcode-sol/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
+| [3046-split-the-array](https://github.com/Lijashree/Leetcode-sol/tree/master/3046-split-the-array) |
 ## Stack
 |  |
 | ------- |
