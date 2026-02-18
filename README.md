@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 | [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/Lijashree/Leetcode-sol/tree/master/1184-distance-between-bus-stops) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0414-third-maximum-number) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/Lijashree/Leetcode-sol/tree/master/3046-split-the-array) |
 ## String
