@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Lijashree/Leetcode-sol/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
 | [3046-split-the-array](https://github.com/Lijashree/Leetcode-sol/tree/master/3046-split-the-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Lijashree/Leetcode-sol/tree/master/1859-sorting-the-sentence) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Lijashree/Leetcode-sol/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Lijashree/Leetcode-sol/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3046-split-the-array](https://github.com/Lijashree/Leetcode-sol/tree/master/3046-split-the-array) |
 ## String
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Lijashree/Leetcode-sol/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
