@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0414-third-maximum-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/Lijashree/Leetcode-sol/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Lijashree/Leetcode-sol/tree/master/0981-delete-columns-to-make-sorted) |
 | [1260-day-of-the-year](https://github.com/Lijashree/Leetcode-sol/tree/master/1260-day-of-the-year) |
+| [1859-sorting-the-sentence](https://github.com/Lijashree/Leetcode-sol/tree/master/1859-sorting-the-sentence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
