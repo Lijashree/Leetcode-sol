@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Lijashree/Leetcode-sol/tree/master/1089-duplicate-zeros) |
 | [1184-distance-between-bus-stops](https://github.com/Lijashree/Leetcode-sol/tree/master/1184-distance-between-bus-stops) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Lijashree/Leetcode-sol/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2942-find-words-containing-character](https://github.com/Lijashree/Leetcode-sol/tree/master/2942-find-words-containing-character) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Lijashree/Leetcode-sol/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0414-third-maximum-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Lijashree/Leetcode-sol/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lijashree/Leetcode-sol/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
