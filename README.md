@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Lijashree/Leetcode-sol/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Lijashree/Leetcode-sol/tree/master/0507-perfect-number) |
 | [1260-day-of-the-year](https://github.com/Lijashree/Leetcode-sol/tree/master/1260-day-of-the-year) |
+| [1323-maximum-69-number](https://github.com/Lijashree/Leetcode-sol/tree/master/1323-maximum-69-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Lijashree/Leetcode-sol/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Lijashree/Leetcode-sol/tree/master/0234-palindrome-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Lijashree/Leetcode-sol/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
