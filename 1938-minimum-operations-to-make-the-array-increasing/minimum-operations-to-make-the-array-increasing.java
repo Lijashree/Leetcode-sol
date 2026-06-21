@@ -3,9 +3,9 @@ class Solution {
          int count=0;
         for (int i=1;i<nums.length;i++){
             if(nums[i]<=nums[i-1]){
-                int need=nums[i-1]+1;
-                count+=need-nums[i];
-                nums[i]=need;
+                int n=nums[i-1]+1;
+                count+=n-nums[i];
+                nums[i]=n;
             }
         }
         return count;
